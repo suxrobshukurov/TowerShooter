@@ -10,6 +10,6 @@ Simple tower shooter
 
 ![Screenshot](TowerShooter.png)
 
-[![Watch the video] (TowerShooter.png) https://user-images.githubusercontent.com/59746245/145263769-ca0ed80d-f492-4485-a463-6dab77e395e1.mp4]
+[![Watch the video] (TowerShooter.png)] https://user-images.githubusercontent.com/59746245/145263769-ca0ed80d-f492-4485-a463-6dab77e395e1.mp4
 
 
